@@ -12,5 +12,7 @@ Contents:
    :maxdepth: 2
 
    introduction
-   type-system
+   compilation
+   language-specification/index
+   standard-library
 
